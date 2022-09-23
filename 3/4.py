@@ -2,7 +2,4 @@
 first_value = int(input("Введите первое число: "))
 second_value = int(input("Введите второе число: "))
 third_value = int(input("Введите третье число: "))
-if first_value<0:
-    negation = first_value
-else:
-    positive = first_value
+print("Количество положительных чисел:",(first_value > 0)+(second_value > 0) + (third_value > 0), " Количество отрицательных: ", (first_value < 0)+(second_value < 0) + (third_value < 0))
