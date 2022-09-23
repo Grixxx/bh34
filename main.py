@@ -1,6 +1,0 @@
-print("Hello")
-print("hiiii")
-print("tgthgthf")
-print('hello print')
-print ("fdsfss")
-print("tgthhvhvgthf")
